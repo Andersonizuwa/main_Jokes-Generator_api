@@ -1,0 +1,44 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+html{
+    overflow-x: hidden;
+}
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+/* body{
+    font-family: "Poppins";
+} */
+
+p{
+    font-weight: 900px;
+}
+.text-center{
+    position: relative;
+    top: 30px;
+}
+h1{
+    text-align: center;
+    position: relative;
+    top: 40px;
+}
+span{
+    color: rgb(240, 206, 13);
+    font-size: 90px;
+}
+footer{
+    text-align: center;
+    position: relative;
+    bottom: 20px;
+}
+.jokeimg{
+    width: 100px;
+    position: relative;
+    left: 45%;
+    top: 80px;
+}
